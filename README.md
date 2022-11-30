@@ -1,0 +1,2 @@
+# Soteria
+a discord bot
